@@ -1,3 +1,3 @@
 # my-first-repository
-Szakács Gabriella
+Szakács
  
